@@ -11,6 +11,7 @@ such as Naive Bayes, Logistic Regression, or Support Vector.
 Machines.
 
 The Data used in the task is taken from kaggle as the link is provided by CodeWay Solutions.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TASK 2
 
@@ -22,6 +23,7 @@ experiment with algorithms like Logistic Regression, Decision Trees,
 or Random Forests to classify transactions as fraudulent or legitimate.
 
 The Data used in the task is taken from kaggle as the link is provided by CodeWay Solutions.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 TASK 3
 
